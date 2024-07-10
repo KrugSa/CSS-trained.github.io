@@ -11,7 +11,7 @@ header {
     background-repeat: no-repeat;
     height: 800px;
     width: 100%;
-    background-image: url("C:/Users/Kruger/Desktop/Project/Personal_Projects/CSS/imagenes/Fondo1.jpg");
+    background-image: url("/imagenes/Fondo1.jpg");
     background-position: center;
 }
 
