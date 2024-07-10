@@ -373,6 +373,17 @@ nav {
     opacity: 0.6;
 }
 
+#owner {
+    height: 200px;
+    background-color: #241d1b;
+    color: #f5f0ed;
+}
+
+footer p {
+    padding-top: 100px;
+    margin-left: 30px;
+}
+
 
 /* @media screen and (max-width: 800px){
 
