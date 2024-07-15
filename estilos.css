@@ -31,6 +31,8 @@ nav {
 
 .nav img {
     width: 190px;
+    background-color: #d03b40;
+    color: white;
 }
 
 .nav-list ul {
