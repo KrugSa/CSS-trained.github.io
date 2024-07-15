@@ -29,6 +29,10 @@ nav {
     width: 190px;
 }
 
+.nav img{
+    
+}
+
 .nav-list ul {
     justify-content: space-between;
 }
