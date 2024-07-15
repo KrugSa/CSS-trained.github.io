@@ -5,8 +5,11 @@
  width="920.000000pt" height="920.000000pt" viewBox="0 0 920.000000 920.000000"
  preserveAspectRatio="xMidYMid meet">
 
+<!-- Fondo rojo -->
+<rect width="100%" height="100%" fill="red" />
+
 <g transform="translate(0.000000,920.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+fill="#ffffff" stroke="none"> <!-- Cambié fill="#000000" a fill="#ffffff" -->
 <path d="M2467 6619 c-94 -22 -192 -93 -245 -177 -129 -202 -46 -476 175 -580
 l58 -27 2145 0 2145 0 65 32 c134 66 220 192 228 334 10 174 -76 316 -237 393
 l-66 31 -2115 2 c-1208 0 -2131 -3 -2153 -8z"/>
